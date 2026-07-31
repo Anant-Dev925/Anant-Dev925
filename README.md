@@ -89,7 +89,7 @@ Flutter Developer • AI Enthusiast • Android Developer • Full Stack Develop
 
 ## 🏢 MatriqGo
 
-> AI Powered Society Management Platform built with Flutter & Supabase.
+AI Powered Society Management Platform built with Flutter & Supabase.
 
 ### ✨ Features
 
@@ -227,8 +227,6 @@ Production-ready applications built using
 ---
 
 # 🐍 Contribution Snake
-
-> **Enable this after creating the Snake GitHub Action.**
 
 <p align="center">
 
