@@ -1,23 +1,312 @@
-# 💫 About Me:
-🔭 I’m currently working as a Web Developer freelancer.<br>👯 I’m looking to collaborate on Web and Android Development Projects.<br>🤝 I’m looking for help with Android Development.<br>🌱 I’m currently learning react-native.<br>💬 Ask me about your bugs.<br>
+<!-- ========================================================= -->
+<!--                  ANANT DEV MISHRA README                  -->
+<!-- ========================================================= -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anant-dev-mishra-872995253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anant.mishra2580@gmail.com) 
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:00D4FF&text=Anant%20Dev%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20•%20AI%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anant-Dev925&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anant-Dev925&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Dev925&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anant-Dev925&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋 I'm Anant Dev Mishra</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+Flutter Developer • AI Enthusiast • Android Developer • Full Stack Developer
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production+Flutter+Apps;AI+Powered+Mobile+Applications;Supabase+%7C+Firebase+%7C+NodeJS;Always+Learning+Something+New;Open+Source+Contributor"/>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:anant.mishra2580@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anant-dev-mishra-872995253">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anant-Dev925">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anant-Dev925&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚀 About Me
 
+| 💼 Role | Flutter Developer |
+|---------|-------------------|
+| 📍 Location | India 🇮🇳 |
+| 📱 Specialization | Flutter • Android • AI |
+| ⚙️ Backend | Supabase • Firebase • Node.js |
+| 🗄️ Database | PostgreSQL • MySQL |
+| 🌱 Currently Learning | AI Agents • MCP • Clean Architecture |
+| 🚀 Current Project | AI Powered Society Management Platform |
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,nodejs,react,nextjs,typescript,javascript,supabase,firebase,postgres,mysql,git,github,vscode,figma,postman&perline=10"/>
+
+</p>
+
+---
+
+# 📈 Current Skills
+
+| Skill | Level |
+|-------|--------|
+| Flutter | ⭐⭐⭐⭐⭐ |
+| Dart | ⭐⭐⭐⭐⭐ |
+| Android | ⭐⭐⭐⭐☆ |
+| Firebase | ⭐⭐⭐⭐☆ |
+| Supabase | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| NodeJS | ⭐⭐⭐⭐☆ |
+| AI Integration | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🚀 Currently Working On
+
+- 📱 Production Flutter Applications
+- 🤖 AI Assistant Integration
+- 🏢 Society Management Platform
+- ⚡ IoT Monitoring Dashboard
+- 🌍 Backend APIs
+- 🔥 Open Source
+
+---
+# 🚀 Featured Projects
+
+## 🏢 MatriqGo
+
+> AI Powered Society Management Platform built with Flutter & Supabase.
+
+### ✨ Features
+
+- 👥 Visitor Management
+- 🏠 Resident Management
+- 💬 Community Chat
+- 📢 Notice Board
+- 🛡️ Complaint Management
+- 📅 Attendance Tracking
+- 📊 Energy Monitoring
+- 📡 IoT Dashboard
+- 🤖 AI Assistant
+- 🔔 Smart Notifications
+
+---
+
+## 🤖 Android AI Assistant
+
+An intelligent Android Assistant powered by Local LLMs.
+
+### Tech
+
+- Flutter
+- Ollama
+- MCP
+- WebSockets
+- ADB Automation
+- Tool Calling
+- REST APIs
+
+---
+
+## 🌐 Full Stack Applications
+
+Production-ready applications built using
+
+- Flutter
+- React
+- Next.js
+- Firebase
+- Supabase
+- PostgreSQL
+- NodeJS
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anant-Dev925&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br> <br>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anant-Dev925&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anant-Dev925&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant-Dev925&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 🚀 Open Source Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anant-Dev925&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anant-Dev925&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anant-Dev925&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anant-Dev925&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anant-Dev925&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🛠 My Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+🎨 UI/UX Design
+   │
+   ▼
+📱 Flutter Development
+   │
+   ▼
+🔗 Backend Integration
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+```
+
+---
+
+# ⚡ Favorite Technologies
+
+| Mobile | Backend | Database | AI |
+|---------|----------|----------|-----|
+| Flutter | NodeJS | PostgreSQL | Ollama |
+| Dart | Supabase | MySQL | MCP |
+| Android | Firebase | SQLite | LLM |
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this after creating the Snake GitHub Action.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Anant-Dev925/Anant-Dev925/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anant-Dev925&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<i>
+
+"Code is like humor. When you have to explain it, it's bad."
+
+</i>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build world-class Flutter apps
+- 🤖 Master AI integrations
+- 📦 Contribute more to Open Source
+- 🌍 Build products used by thousands
+- 📚 Keep learning every day
+
+---
+
+
+
+
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="mailto:anant.mishra2580@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/anant-dev-mishra-872995253">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Anant-Dev925">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Support
+
+If you like my work, consider ⭐ starring my repositories.
+
+---
+<h2 align="center">❤️ Thanks for Visiting ❤️</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Happy+Coding!;See+You+Again!;Have+a+Great+Day!"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,100:00D4FF"/>
+</p>
